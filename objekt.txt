@@ -1,0 +1,44 @@
+-------------------------
+Den delen av en datamaskin som kjører programmet kalles?
+-------------------------
+Den delen av en datamaskin som kjører programmet kalles?
+En ___ er nok minne til å lagre en bokstav eller et lite heltall.
+-------------------------
+Den delen av en datamaskin som kjører programmet kalles?
+En ___ er nok minne til å lagre en bokstav eller et lite heltall.
+En byte består av åtte ___ 
+-------------------------
+Den delen av en datamaskin som kjører programmet kalles?
+En ___ er nok minne til å lagre en bokstav eller et lite heltall.
+En byte består av åtte ___ 
+I hvilket tallsystem bruker man bare 0-ere eller 1-ere?
+-------------------------
+Den delen av en datamaskin som kjører programmet kalles?
+En ___ er nok minne til å lagre en bokstav eller et lite heltall.
+En byte består av åtte ___ 
+I hvilket tallsystem bruker man bare 0-ere eller 1-ere?
+Hvilket tall i titallssystemet er representert med det binære tallet 1011001?
+-------------------------
+Den delen av en datamaskin som kjører programmet kalles?
+En ___ er nok minne til å lagre en bokstav eller et lite heltall.
+En byte består av åtte ___ 
+I hvilket tallsystem bruker man bare 0-ere eller 1-ere?
+Hvilket tall i titallssystemet er representert med det binære tallet 1011001?
+Hvilket binært tall representerer tallet 23?
+-------------------------
+Den delen av en datamaskin som kjører programmet kalles?
+En ___ er nok minne til å lagre en bokstav eller et lite heltall.
+En byte består av åtte ___ 
+I hvilket tallsystem bruker man bare 0-ere eller 1-ere?
+Hvilket tall i titallssystemet er representert med det binære tallet 1011001?
+Hvilket binært tall representerer tallet 23?
+Datamaskiner kan bare utføre direkte programmer som er skrevet i ___ 
+-------------------------
+Den delen av en datamaskin som kjører programmet kalles?
+En ___ er nok minne til å lagre en bokstav eller et lite heltall.
+En byte består av åtte ___ 
+I hvilket tallsystem bruker man bare 0-ere eller 1-ere?
+Hvilket tall i titallssystemet er representert med det binære tallet 1011001?
+Hvilket binært tall representerer tallet 23?
+Datamaskiner kan bare utføre direkte programmer som er skrevet i ___ 
+Python er et tolket eller kompilert språk?

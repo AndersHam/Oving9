@@ -6,9 +6,7 @@ Created on Mon Nov  1 15:07:11 2021
 @author: Anders
 """
 
-import pathlib
-path2= pathlib.Path(_file_).parent / 'sporsmaalsfil.txt'
-path1= pathlib.Path(_file_).parent / 'objekt.txt'
+
 objektet=list()
 
 class svar:
@@ -50,8 +48,8 @@ class svar:
 def main():  
     score1=0
     score2=0
-    with open (path2, "r") as m:
-        with open (path1, "w") as ik:
+    with open ("sporsmaalsfil.txt", "r") as m:
+        with open ("objekt.txt", "w") as ik:
             for lines in m:
                 lines=lines.strip()
                 lines=lines.split(":")
